@@ -19,3 +19,11 @@
     1.3.2 Linux
 
     1.3.3 anaconda
+
+二 style and variety
+
+2.1 风格
+
+2.2 输入输出函数
+
+2.3 变量
